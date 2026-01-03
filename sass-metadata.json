@@ -1,0 +1,13 @@
+{
+  "name": "SASS",
+  "symbol": "SASS",
+  "description": "Official SASS Token",
+  "image": "https://raaf2rid.github.io/inertia-metadata/logo.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      { "uri": "https://raaf2rid.github.io/inertia-metadata/logo.png", "type": "image/png" }
+    ]
+  }
+}
